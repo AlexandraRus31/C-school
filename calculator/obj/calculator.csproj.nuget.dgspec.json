@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\CLASA 11B\\calculator C#\\calculator\\calculator\\calculator.csproj": {}
+    "C:\\Users\\Elev\\Documents\\GitHub\\C-school\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "G:\\CLASA 11B\\calculator C#\\calculator\\calculator\\calculator.csproj": {
+    "C:\\Users\\Elev\\Documents\\GitHub\\C-school\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\CLASA 11B\\calculator C#\\calculator\\calculator\\calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Elev\\Documents\\GitHub\\C-school\\calculator\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "G:\\CLASA 11B\\calculator C#\\calculator\\calculator\\calculator.csproj",
+        "projectPath": "C:\\Users\\Elev\\Documents\\GitHub\\C-school\\calculator\\calculator.csproj",
         "packagesPath": "C:\\Users\\Elev\\.nuget\\packages\\",
-        "outputPath": "G:\\CLASA 11B\\calculator C#\\calculator\\calculator\\obj\\",
+        "outputPath": "C:\\Users\\Elev\\Documents\\GitHub\\C-school\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
